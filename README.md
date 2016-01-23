@@ -29,7 +29,7 @@ Cheng Chen
 
 ![Cheng Chen](/assets/102px-Cc.PNG?raw=true)	
 	
-Alicia Francis
+[Alicia Francis](https://github.com/afrancis40)
 
 ![Alicia Francis](/assets/82px-Photo.JPG?raw=true)	
 
@@ -37,6 +37,6 @@ Namrata Kalsi
 
 ![Namrata Kalsi](/assets/120px-Wilson_potter.jpg?raw=true)	
 	
-Aroon Chande
+[Aroon Chande](https://github.com/ar0ch)
 
 ![Aroon Chande](/assets/98px-Chande_profile.jpg?raw=true)	
